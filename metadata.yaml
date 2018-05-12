@@ -1,0 +1,37 @@
+_repo: Advice-to-Young-Musicians.-Musikalische-Haus--und-Lebens-Regeln_28219
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Pierson, Henry Hugo
+    birthdate: 1815
+    deathdate: 1873
+    gutenberg_agent_id: '33211'
+    url: http://www.gutenberg.org/2009/agents/33211
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Schumann, Robert
+    birthdate: 1810
+    deathdate: 1856
+    gutenberg_agent_id: '1940'
+    url: http://www.gutenberg.org/2009/agents/1940
+    wikipedia: http://en.wikipedia.org/wiki/Robert_Schumann
+description: ''
+gutenberg_bookshelf: Music
+gutenberg_issued: '2009-02-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '28219'
+language:
+- en
+- de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Music -- Instruction and study'
+- !lcc 'ML'
+title: Advice to Young Musicians. Musikalische Haus- und Lebens-Regeln
+url: http://www.gutenberg.org/ebooks/28219
